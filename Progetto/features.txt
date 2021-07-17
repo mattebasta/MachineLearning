@@ -1,0 +1,17 @@
+Temperature [K] è la temperatura, A_M e il magnitudo assoluto, 
+L è la luminosità della stella, R è il raggio,
+poi abbiamo colore della stella, la classe spettrale con le quali le stelle
+vengono classificate e infine la tipologia da 0 a 5
+
+
+La magnitudine assoluta è la magnitudine apparente che un corpo celeste avrebbe se osservato da una distanza esatta di 10 parsec(32,6 anni luce).
+la luminosità e la magnitudine assoluta sono inversamente proporzionate da un fattore di [Radice quinta di 100], inoltre più la magnitudine è alta meno il corpo celeste è luminoso,
+quindi una stella con A_M negativa è più luminosa di una con A_M positivo.
+
+
+Il raggio viene contato rispetto al raggio solare come unità di misura,
+il raggio solare vale 6,960X10^8 m.
+
+la luminosità vale 3.828X10^26 W.
+
+
