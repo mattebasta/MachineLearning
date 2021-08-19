@@ -1,0 +1,8 @@
+Amag è la magnitudine della stella
+Spectral type è la classe spettrale
+Plx è la distanza tra terra e la stella 
+Vmag è la magnitudine apparente della stella
+e_Plx è l'errore standard
+B-V indica l'indice di colore
+
+TargetClass è un binario che indica se la stella è una nana(Dwarf - 0) o una gigante(Giant - 1)
