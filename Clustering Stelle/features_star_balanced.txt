@@ -1,9 +1,9 @@
-Amag è la magnitudine della stella
-Spectral type è la classe spettrale
+Amag è la magnitudine della stella (OK)
+Spectral type è la classe spettrale (OK)
 Plx è la distanza tra terra e la stella 
-Vmag è la magnitudine apparente della stella
+Vmag è la magnitudine apparente della stella (OK)
 e_Plx è l'errore standard
-B-V indica l'indice di colore 
+B-V indica l'indice di colore (OK)
 
 
 TargetClass è un valore binario che indica se la stella è una nana(Dwarf - 0) o una gigante(Giant - 1)
@@ -28,4 +28,9 @@ La magnitudine Assoluta è invece la magnitudine apparente osservata da una dist
 è stato preferito utilizzare la Amag in quanto il valore calcolato non tiene conto di fattori reali, quali la variazione di luminosità e l'estinzione del corpo celeste.
 
 CLASSE SPETTRALE
-il valore indicato in classe spettrale
+il valore indicato in classe spettrale indica l'effettiva classe di appartenenza ad una classe spettrale, organizzata tramite le classe di Harvard, le classi principali sono 7 (O,B,A,F,G,K,M), ne sono presenti di aggiuntive come la classe C, la quale indica delle stelle al carbonio giganti vicine alla fine della loro esistenza e che presentano un eccesso di carbonio nelle loro atmosfere.
+
+LUMINOSITA'
+Nel campo della astronomia la luminosità del corpo celeste fa riferimento alla quantità di energia elettromagnetica emessa da una stella per unità di tempo, quindi corrisponde in realtà alla potenza emessa dal corpo celeste, pertanto viene misurata in WATT (W).
+
+
