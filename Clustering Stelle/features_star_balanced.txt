@@ -3,6 +3,29 @@ Spectral type è la classe spettrale
 Plx è la distanza tra terra e la stella 
 Vmag è la magnitudine apparente della stella
 e_Plx è l'errore standard
-B-V indica l'indice di colore
+B-V indica l'indice di colore 
 
-TargetClass è un binario che indica se la stella è una nana(Dwarf - 0) o una gigante(Giant - 1)
+
+TargetClass è un valore binario che indica se la stella è una nana(Dwarf - 0) o una gigante(Giant - 1)
+
+B-V
+Il colore assoluto della stella e le classi di Harvard sono correlate, per esempio una stella classificata di classe O è tipicamente associata ad un colore blu. Le classi a seconda della tipologia di colore (Assoluto o Apparente) possono andare dal blu al rosso nel caso di colore Assoluto altrimenti dal blu all'arancio-rosso.
+
+Il colore assoluto fa riferimento alla differenza tra le due magnitudini assolute nelle bande B e V rispettivamente.
+
+Il discorso è analogo per l'indice apparente.
+
+TEMPERATURA
+Nella colonna indicante la temperatura, viene considerata quella superficiale.
+
+MAGNITUDINE ASSOLUTA E RELATIVA
+La magnitudine assoluta è stata generata da un equazione M = m + 5(log(in base 10)p + 1)
+Dove M rappresenta la magnitudine assoluta, m quella apparente e infine p rappresenta il parallasse della stella.
+
+La magnitudine apparente di un corpo celeste è una misura della sua luminosità quando osservata da un punto di riferimento, di solito la terra, infine questo valore viene corretto così da ottenere la luminosità effettiva del corpo celeste, considerando la terra priva di atmosfera.
+
+La magnitudine Assoluta è invece la magnitudine apparente osservata da una distanza di 10 parsec. Inoltre più la luminosità della stella è alta più diminuisce la sua magnitudine assoluta, ottenendo anche valori negativi.
+è stato preferito utilizzare la Amag in quanto il valore calcolato non tiene conto di fattori reali, quali la variazione di luminosità e l'estinzione del corpo celeste.
+
+CLASSE SPETTRALE
+il valore indicato in classe spettrale
