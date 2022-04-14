@@ -14,4 +14,4 @@ il raggio solare vale 6,960X10^8 m.
 
 la luminosità vale 3.828X10^26 W.
 
-
+Più un oggetto appare debole, alla supposta distanza di 10 parsec, più alto sarà il valore della sua magnitudine; più bassa è la sua magnitudine assoluta, più alta sarà la sua luminosità intrinseca.
