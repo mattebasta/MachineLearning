@@ -15,6 +15,9 @@ Il colore assoluto fa riferimento alla differenza tra le due magnitudini assolut
 
 Il discorso è analogo per l'indice apparente.
 
+Se una stella ha un indice B-V positivo significa che la sua emissione nello spettro visibile è maggiore di quella nel blu 
+(la magnitudine diventa minore all'aumentare della luminosità) e dunque la stella appare rossa. Viceversa un indice B-V negativo indica che la stella emette una luce più vicina alla regione ultravioletta dello spettro visisbile.
+
 TEMPERATURA
 Nella colonna indicante la temperatura, viene considerata quella superficiale.
 
@@ -33,4 +36,4 @@ il valore indicato in classe spettrale indica l'effettiva classe di appartenenza
 LUMINOSITA'
 Nel campo della astronomia la luminosità del corpo celeste fa riferimento alla quantità di energia elettromagnetica emessa da una stella per unità di tempo, quindi corrisponde in realtà alla potenza emessa dal corpo celeste, pertanto viene misurata in WATT (W).
 
-
+Più un oggetto appare debole, alla supposta distanza di 10 parsec, più alto sarà il valore della sua magnitudine; più bassa è la sua magnitudine assoluta, più alta sarà la sua luminosità intrinseca.
